@@ -24,7 +24,7 @@ The goal of this project is to analyze data from a sales records database for sc
 
 ### Database Schema
 
-![[./project-files/images/db-schema.png]]
+![Database Schema](./project-files/images/db-schema.png)
 
  The database contains eight tables:
 
