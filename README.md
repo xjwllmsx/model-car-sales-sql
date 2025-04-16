@@ -1,23 +1,24 @@
----
-Date Created: 2025-02-25  13:35
-Last Modified: 2025-03-20  12:38
----
-
 # Customer and Product Insights for Model Car Sales
 
----
 
 ## Project Goal
 
-The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making.
-
-### Questions to answer
-
+The goal of this project is to analyze data from a sales records database for scale model cars and extract information for decision-making. The following questions will be answered:
 - Question 1: Which products require increased or decreased order quantities?
 - Question 2: How can marketing and communication strategies be tailored to customer behaviors?
 - Question 3: What is an appropriate budget for acquiring new customers?
 
-## Project Files
+## Table of Contents
+
+- [Project Contents](#project-contents)
+- [Questions](#questions)
+  - [Question 0](#question-0)
+  - [Question 1](#question-1-which-products-require-increased-or-decreased-order-quantities)
+  - [Question 2](#question-2-how-can-marketing-and-communication-strategies-be-tailored-to-customer-behaviors)
+  - [Question 3](#question-3-what-is-an-appropriate-budget-for-acquiring-new-customers)
+- [Conclusion](#conclusion)
+
+## Project Contents
 
 - [Scale Model Cars Database](./project-files/stores.db)
 - [SQL Queries](./project-files/project.sql)
@@ -26,7 +27,7 @@ The goal of this project is to analyze data from a sales records database for sc
 
 ![Database Schema](./project-files/images/db-schema.png)
 
- The database contains eight tables:
+The database contains eight tables:
 
 - `Customers`: customer data
 - `Employees`: all employee information
