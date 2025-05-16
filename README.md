@@ -67,7 +67,7 @@ uv pip install -r requirements.txt
 **3. Launch Jupyter Notebook**
 
 ```bash
-jupyter notebook notebook/analysis.ipynb
+jupyter notebook notebook/model-car-sales.ipynb
 ```
 
 NOTE: If you're using `uv`, dependencies are managed via `pyproject.toml` instead of `requirements.txt`.
