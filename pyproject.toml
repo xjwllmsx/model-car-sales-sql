@@ -1,0 +1,12 @@
+[project]
+name = "model-car-sales-sql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython-sql>=0.5.0",
+    "jupyter>=1.1.1",
+    "prettytable==3.7.0",
+]
