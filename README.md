@@ -44,7 +44,7 @@ You can view the [database schema image](./project-files/images/db-schema.png) f
 
 You can explore the full notebook directly in your browser using Binder:
 
-[![Launch in Binder](https://mybinder.org/badge_logo.svg)]()
+[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xjwllmsx/model-car-sales-sql/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook%2Fmodel-car-sales.ipynb)
 
 ## Steps to Run
 
