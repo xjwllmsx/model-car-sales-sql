@@ -69,7 +69,7 @@ ipykernel==6.29.5
     #   jupyter
     #   jupyter-console
     #   jupyterlab
-ipython==9.2.0
+ipython
     # via
     #   ipykernel
     #   ipython-sql
